@@ -5,3 +5,4 @@ Creating a new branch is quick AND simple.
 git merge --no-ff -m "merge with no-ff" dev
 git merge
 
+#new dev merge
