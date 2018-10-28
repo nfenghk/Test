@@ -12,3 +12,6 @@ dev merge --ff
 new dev merge --ff
 
 Git is a free software
+
+
+git stash
