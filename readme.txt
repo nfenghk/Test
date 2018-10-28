@@ -6,3 +6,5 @@ git merge --no-ff -m "merge with no-ff" dev
 git merge
 
 #new dev merge
+
+dev merge --ff
