@@ -8,3 +8,5 @@ git merge
 #new dev merge
 
 dev merge --ff
+
+new dev merge --ff
